@@ -2,7 +2,7 @@ import React from 'react';
 
 const Hero = () => {
   return (
-    <div className='bg-gradient-to-r from-cyan-800 to-cyan-600 min-h-screen flex items-center justify-center px-4 pt-16'>
+    <div className='bg-linear-to-r from-cyan-800 to-cyan-600 min-h-screen flex items-center justify-center px-4 pt-16'>
       <div className='max-w-4xl mx-auto text-center'>
         <h1 className='text-4xl md:text-5xl lg:text-6xl font-bold text-green-300 mb-1 leading-tight'>
           Build Modern Web Apps 
